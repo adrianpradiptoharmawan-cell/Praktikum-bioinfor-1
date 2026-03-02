@@ -1,0 +1,8 @@
+name: BISB211606
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - biopython
+  - emboss
+  - jupyterlab
